@@ -130,3 +130,7 @@
 #     blood_group = models.CharField(max_length=5)
 #     donation_type = models.CharField(max_length=255)
 #     hospital = models.ForeignKey(Hospital, on_delete=models.CASCADE)
+
+
+
+# diyorbek
